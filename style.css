@@ -1,16 +1,16 @@
 @font-face {
   font-family: aorus;
-  src: url("fonts/AORUS.woff");
+  src: url("fonts/AORUS.woff2");
 }
 
 @font-face {
   font-family: aldrich;
-  src: url("fonts/MCoTzAn-1s3IGyJMVacY3w.ttf");
+  src: url("fonts/MCoTzAn-1s3IGyJMVacY3w.woff2");
 }
 
 @font-face {
   font-family: titillium;
-  src: url("fonts/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzYw.ttf");
+  src: url("fonts/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzYw.woff2");
 }
 
 * {
