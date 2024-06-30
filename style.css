@@ -249,13 +249,13 @@ body video {
 
 .main {
   position: relative;
-  background-color: rgba(0, 0, 0, 0.408);
+  background-color: rgba(0, 0, 0, 0.525);
 }
 
 .page1 {
   height: 150vh;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.629);
+  background-color: rgba(0, 0, 0, 0.425);
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -1299,6 +1299,7 @@ nav .nav-right a:hover{
   object-fit: cover;
   filter: brightness(65%);
   transition: all ease 0.4s;
+  cursor: pointer;
 }
 .page5 .horizontal-slots .sections:hover img{
   filter: brightness(90%);
@@ -1646,7 +1647,7 @@ nav .nav-right a:hover{
   position: absolute;
   transform: translateX(-100%);
   z-index: 100;
-  background-image: url("images/1.png");
+  background-image: url("images/message-left.webp");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -1660,7 +1661,7 @@ nav .nav-right a:hover{
   position: absolute;
   transform: translateX(100%);
   z-index: 100;
-  background-image: url("images/2.png");
+  background-image: url("images/message-right.webp");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
