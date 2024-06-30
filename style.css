@@ -395,7 +395,7 @@ nav .nav-right a:hover{
 .page2-bg{
   height: 270vh;
   width: 100%;
-  background-image: url("images/fan-bg.jpg");
+  background-image: url("images/fan-bg.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1322,7 +1322,7 @@ nav .nav-right a:hover{
   min-height: 100vh;
   width: 100%;
   margin-top: -20vh;
-  background-image: url("images/glassmorphism img.jpeg");
+  background-image: url("images/glassmorphism img.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
